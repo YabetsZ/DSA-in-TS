@@ -1,3 +1,4 @@
+export {};
 let count: number = 125;
 console.log(count);
 

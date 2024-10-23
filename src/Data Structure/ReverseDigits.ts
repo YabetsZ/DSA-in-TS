@@ -1,5 +1,6 @@
 // METHOD: NUMBER MANIPULATION
 // TITLE: REVERSING THE DIGITS
+export {};
 const reverse = (n: number): number => {
   let result = 0;
   while (n != 0) {
